@@ -1,5 +1,7 @@
 # Toka-Salman
-# Hey there 👋 I'm Toka Salman  
+# Hey there 👋 I'm Toka Salman 
+**Data Dreamer | Creative Coder | Mystery Seeker | Book Lover**  
+
 
 ---
 
@@ -41,6 +43,8 @@ I’d love to connect, collaborate, and bring ideas to life with you.
 
 🔗 LinkedIn  
 📧 https://www.linkedin.com/in/toka-salman-a357a324a/
-tokasalman91gmail.com
+📧 tokasalaman91@gmail.com  
+
+
 
 
