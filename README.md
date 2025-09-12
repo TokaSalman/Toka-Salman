@@ -1,4 +1,4 @@
-# TokaSalman
+# Toka Salman
 # Hey there 👋 I'm Toka Salman 
 **Data Dreamer | Creative Coder | Mystery Seeker | Book Lover**  
 
